@@ -6,6 +6,7 @@
     "test": "echo 'all tests passed!'"
   },
   "dependencies": {
+    "mongodb": "^4.6.0",
     "package-a": "1.0.0"
   }
 }
